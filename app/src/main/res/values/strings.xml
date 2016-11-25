@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CarLocator</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
